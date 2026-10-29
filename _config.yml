@@ -1,0 +1,28 @@
+# _config.yml
+
+# Use the theme directly from its GitHub repository
+remote_theme: just-the-docs/just-the-docs
+
+# --- Basic Site Settings ---
+title: "Scifi Props"
+description: "A central hub for the documentation of all my projects."
+url: "https://jthughes.github.io"
+
+# --- Theme Settings ---
+# Enable dark mode by default
+color_scheme: dark
+
+# --- Footer Settings ---
+# Show "Last edited on..." on pages with a 'last_modified_date'
+last_edit_timestamp: true
+last_edit_time_format: "%b %e, %Y" # e.g., "Jul 11, 2025"
+
+# Adds an "Edit this page on GitHub" link to the footer
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/jthughes/jthughes.github.io"
+gh_edit_branch: "main"
+
+# Variables
+imagesurl: "/gallery/image/"
+thumbsurl: "/gallery/thumbnails/"
