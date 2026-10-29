@@ -26,5 +26,5 @@ gh_edit_branch: "main"
 # Variables
 baseurl: "/websitetest"
 
-imagesurl: "/gallery/image/"
-thumbsurl: "/gallery/thumbnails/"
+imagesurl: "/websitetest/gallery/images/"
+thumbsurl: "/websitetest/gallery/thumbnails/"
