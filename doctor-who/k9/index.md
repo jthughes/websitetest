@@ -10,4 +10,4 @@ last_modified_date: 2026-10-29T21:50:00+10:30
 This is a descriptioon of the K9 project.
 
 ## Gallery
-{% include my-gallery.html folder="doctor-who/k9" %}
+{% include gallery.html folder="doctor-who/k9" %}
