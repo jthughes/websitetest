@@ -24,5 +24,7 @@ gh_edit_repository: "https://github.com/jthughes/jthughes.github.io"
 gh_edit_branch: "main"
 
 # Variables
+baseurl: "/websitetest"
+
 imagesurl: "/gallery/image/"
 thumbsurl: "/gallery/thumbnails/"

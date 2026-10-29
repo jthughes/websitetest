@@ -12,6 +12,6 @@ Below are projects based on the Doctor Who TV Series.
 
 Preview | Project | Description
 --------|---------|-------
-![Daleks](/thumbnail/doctor-who/dalek.png) | [Daleks](/doctor-who/daleks/index.html) | 5 variations on Daleks
-![Davros' Chair](/thumbnail/doctor-who/davros-chair.png) | [Davros' Chair](/doctor-who/davros/index.html) | Complete
-![K9](/thumbnail/doctor-who/k9.png)| [K9](/doctor-who/k9/index.html) | Complete
+![Daleks]({{ site.baseurl }}/thumbnail/doctor-who/dalek.png) | [Daleks](./daleks/) | 5 variations on Daleks
+![Davros' Chair]({{ site.baseurl }}/thumbnail/doctor-who/davros-chair.png) | [Davros' Chair](./davros-chair/) | Complete
+![K9]({{ site.baseurl }}/thumbnail/doctor-who/k9.png)| [K9](./k9/) | Complete
